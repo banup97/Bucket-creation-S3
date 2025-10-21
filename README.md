@@ -5,5 +5,7 @@ In screenshot 3: Shows the content i uploaded in the txt file and enable in publ
 
 Copy of URL : https://banu-s3-sample-01.s3.ap-southeast-2.amazonaws.com/S3.txt
 
+Outcome : Understand the concept of object storage, bucket creation and file accessibility in the cloud.
+
 Note : I deleted that s3 bucket for avoiding charges. So kindly refer my attached screenshot and description.
 
